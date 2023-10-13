@@ -1,6 +1,6 @@
 [![MasterHead](https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---dark-blue---v0.1.gif)](https://Loveline-Ezenwafor.io)
 <h1 align="center">Hi 👋, I'm Loveline Ezenwafor</h1>
-<h3 align="center">A passionate Data Analyst and IT Support Professional from Nigeria</h3>
+<h3 align="center">A passionate Data Analyst, Designer and IT Support Professional from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/loveli_lace" target="blank"><img src="https://img.shields.io/twitter/follow/loveli_lace?logo=twitter&style=for-the-badge" alt="loveli_lace" /></a> </p>
 
-- 🔭 I’m currently working on **Open-Source Programming**
+- 🔭 I’m currently working on **Open-Source Projects**
 
 - 👯 I’m looking to collaborate on **SCA Contributhon Extended**
 
