@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/loveli_lace" target="blank"><img src="https://img.shields.io/twitter/follow/loveli_lace?logo=twitter&style=for-the-badge" alt="loveli_lace" /></a> </p>
 
-- 🌱 I’m currently learning **Open-Source Programming**
+- 🔭 I’m currently working on **Open-Source Programming**
 
 - 👯 I’m looking to collaborate on **SCA Contributhon Extended**
 
