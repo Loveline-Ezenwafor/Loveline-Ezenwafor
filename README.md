@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/loveli_lace" target="blank"><img src="https://img.shields.io/twitter/follow/loveli_lace?logo=twitter&style=for-the-badge" alt="loveli_lace" /></a> </p>
 
-- 🔭 I’m currently seeking on **Internships and Entry-level roles**
+- 🔭 I’m currently seeking **Internships and Entry-level roles**
 
 - 👯 I’m participating in a Job Shadowing Program with **Interswitch Group**
 
