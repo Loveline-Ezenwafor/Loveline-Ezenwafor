@@ -1,6 +1,6 @@
 [![MasterHead](https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---dark-blue---v0.1.gif)](https://Loveline-Ezenwafor.io)
 <h1 align="center">Hi 👋, I'm Loveline Ezenwafor</h1>
-<h3 align="center">A passionate Data Analyst, Designer and IT Support Professional from Nigeria</h3>
+<h3 align="center">A passionate QA Engineer / Software Tester from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/loveli_lace" target="blank"><img src="https://img.shields.io/twitter/follow/loveli_lace?logo=twitter&style=for-the-badge" alt="loveli_lace" /></a> </p>
 
-- 🔭 I’m currently working on **Open-Source Projects**
+- 🔭 I’m currently seeking on **Internships and Entry-level roles**
 
-- 👯 I’m looking to collaborate on **SCA Contributhon Extended**
+- 👯 I’m participating in a Job Shadowing Program with **Interswitch Group**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/lovelinezenwaf](https://www.behance.net/lovelinezenwaf)
+- 👨‍💻 All of my projects are available at [https://www.dev.to/loveline](https://www.dev.to/loveline)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Creating simple test scripts in Python, Using Newman to automate API tests, Getting started with Postman for API testing, Bug tracking and writing effective bug reports, Writing and executing manual test cases**
 
 - 📫 How to reach me **ezenwaforchioma@gmail.com**
 
-- ⚡ Fun fact **I'm an avid adventurer, always seeking new experiences and challenges. Whether it's hiking in remote locations or exploring the intricacies of a new culture, I find inspiration in the unknown. This sense of adventure fuels my curiosity and adaptability.**
+- ⚡ Fun fact **I once found a bug in an app before I officially started testing it — turns out, I have a sixth sense for spotting glitches!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
